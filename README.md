@@ -1,16 +1,25 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://files.catbox.moe/7ippgb.jpg" width="800"/>
+</div>
 
-<!--
-**fyolaikisser/fyolaikisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+→  *Barnadette..* ꫂ ၴႅၴ
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://files.catbox.moe/vzdqig.jpg" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://files.catbox.moe/pfn9jg.jpg" width="500"/>
+</div>
+
+<div align="center">
+
+°˖➴   *You all my liberty..*  °❀.ೃ࿔*
+</div>
+
+<div id="header" align="center">
+  <img src="https://files.catbox.moe/pou181.png" width="300"/>
+</div>
