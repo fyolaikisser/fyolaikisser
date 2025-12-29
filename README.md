@@ -17,7 +17,7 @@
 
 <div align="center">
 
-°˖➴   *You all my liberty..*  °❀.ೃ࿔*
+°˖➴   *You are my liberty..*  °❀.ೃ࿔*
 </div>
 
 <div id="header" align="center">
