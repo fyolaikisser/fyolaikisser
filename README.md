@@ -4,7 +4,7 @@
 
 <div align="center">
 
-→  *Barnadette..* ꫂ ၴႅၴ
+→  *Bernadette..* ꫂ ၴႅၴ
 </div>
 
 <div id="header" align="center">
